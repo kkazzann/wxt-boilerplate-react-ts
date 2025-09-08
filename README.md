@@ -23,7 +23,7 @@ WXT Docs:
 - https://wxt.dev/storage.html
 
 ```
-Misc
+Misc:
 ```
 
 - [fnm installation](https://github.com/Schniz/fnm)
